@@ -58,11 +58,3 @@ Follow these steps to get the project running locally:
 ## ⚙️ Configuration
 
 *   **Leonardo AI API Key:** The application requires a Leonardo AI API key to function. This is configured via the `LEONARDO_API_KEY` variable in the `.env` file located in the project root.
-
-## 🤝 Contributing (Optional)
-
-Contributions are welcome! Please follow standard Git workflow practices (fork, feature branch, pull request).
-
-## 📄 License (Optional)
-
-Specify your project's license here (e.g., MIT, Apache 2.0). If unlicensed, state that. 
